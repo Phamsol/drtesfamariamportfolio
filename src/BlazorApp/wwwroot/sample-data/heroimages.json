@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/Innov-medicalChip.jpeg",
+    "alt": "Innovative medical chip"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/Background-BlackBallRoom.jpeg",
+    "alt": "Black abstract background"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/Medical-StetoPenBook.jpeg",
+    "alt": "desktop with books, stethoscope and pen"
   }
 ]
