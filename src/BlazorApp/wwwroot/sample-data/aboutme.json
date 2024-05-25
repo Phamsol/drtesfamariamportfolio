@@ -1,12 +1,6 @@
 {
-  "description": "My journey in clinical pharmacy and bioengineering has been filled with academic achievements, practical experience, and a commitment to staying at the forefront of the two industries. I am always eager to expand my knowledge and hone my skills to deliver the best possible outcomes in patient care and research.",
-  "skills": [
-    "Clinical pharmacy",
-    "Bioengineering",
-    "Community outreach",
-    "Teaching and mentoring",
-    "Medical Content Writing and Graphic Design",
-    "Project Management",
-  ],
-  "detailOrQuote": "I am happy to bring my expertise to a position that will allow me to make a meaningful care plan."
-}
+  "description": "I am always eager to expand my knowledge"
+  ["Clinical Pharmacy"
+    "Bioengineering"],
+  "detailOrQuote": "I am happy to bring my expertise to a position that will allow me to make a meaningful care plan:",
+};

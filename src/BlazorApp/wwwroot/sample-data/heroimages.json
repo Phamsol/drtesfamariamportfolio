@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/Innov-medicalChip.jpeg",
-    "alt": "Innovative medical chip"
+    "src": "images/BgBlackBrick.jpg",
+    "alt": "Black Brick Wall"
   },
   {
     "name": "about",
-    "src": "images/Background-BlackBallRoom.jpeg",
-    "alt": "Black abstract background"
+    "src": "images/MedhanieProfile1.jpg",
+    "alt": "Black Person Working in a Lab"
   },
   {
     "name": "portfolio",
-    "src": "images/Medical-StetoPenBook.jpeg",
+    "src": "images/MedPenSteto.jpg",
     "alt": "desktop with books, stethoscope and pen"
   }
 ]
